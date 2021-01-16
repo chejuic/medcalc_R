@@ -37,3 +37,12 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+*.ipynb
+*.gsheet
+*.ffs_db
+*.ffs_db
+sync.ffs_db
+sync.ffs_db
+*.ffs_db
+*.ffs_db
+sync.ffs_db
