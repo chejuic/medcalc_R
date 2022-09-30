@@ -2,7 +2,7 @@ library(shiny)
 library(shinyjs)
 library(gsheet)
 # load coefficient table
-ctab = gsheet2tbl("https://docs.google.com/spreadsheets/d/1eU_eywdp52pJzhVHuAEyEc1cmVKE-qj3MHcGkGK33yE/edit#gid=1506178737")
+ctab = gsheet2tbl("https://docs.google.com/spreadsheets/d/1BQ6K_XH8OZ-wcIBDWv1qZQ0M7jC0JLe7/edit#gid=164146701")
   # type:	1~4, corresponding to female_white, female_african, male_white, male_african
   # population: female_white, female_african, male_white, male_african
   # c_ln_age: coefficient of ln(age)
